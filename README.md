@@ -339,3 +339,156 @@ Completa:
 5. **tuviste**
 
 Si quieres, te hago ahora un **ejercicio interactivo** y tú respondes, y yo te corrijo una por una.
+
+
+
+----------------------------------------
+
+
+## Pretérito imperfecto
+
+Se usa para hablar de acciones **habituales**, **descripciones** o acciones **en progreso** en el pasado.
+
+## Cuándo se usa
+
+### 1. Hábitos en el pasado
+Algo que pasaba muchas veces.
+- Cuando era niño, **jugaba** al fútbol.
+- Siempre **comíamos** juntos.
+
+### 2. Descripciones en el pasado
+Cómo era algo o alguien.
+- La casa **era** grande.
+- Hacía frío y la calle **estaba** vacía.
+
+### 3. Acción en progreso en el pasado
+Una acción que estaba ocurriendo.
+- Yo **estudiaba** cuando llamaste.
+- Ellos **dormían** a las diez.
+
+## Cómo se forma
+
+### Verbos en -ar
+
+| Persona | Terminación | Ejemplo: hablar |
+|---|---:|---|
+| yo | -aba | hablaba |
+| tú | -abas | hablabas |
+| él/ella | -aba | hablaba |
+| nosotros | -ábamos | hablábamos |
+| vosotros | -abais | hablabais |
+| ellos | -aban | hablaban |
+
+### Verbos en -er / -ir
+
+| Persona | Terminación | Ejemplo: comer | Ejemplo: vivir |
+|---|---:|---|---|
+| yo | -ía | comía | vivía |
+| tú | -ías | comías | vivías |
+| él/ella | -ía | comía | vivía |
+| nosotros | -íamos | comíamos | vivíamos |
+| vosotros | -íais | comíais | vivíais |
+| ellos | -ían | comían | vivían |
+
+## Ejemplos completos
+
+### Hablar
+- yo **hablaba**
+- tú **hablabas**
+- él **hablaba**
+- nosotros **hablábamos**
+- vosotros **hablabais**
+- ellos **hablaban**
+
+### Comer
+- yo **comía**
+- tú **comías**
+- ella **comía**
+- nosotros **comíamos**
+- vosotros **comíais**
+- ellos **comían**
+
+### Vivir
+- yo **vivía**
+- tú **vivías**
+- él **vivía**
+- nosotros **vivíamos**
+- vosotros **vivíais**
+- ellos **vivían**
+
+## Verbos irregulares
+Solo hay **tres** realmente irregulares en imperfecto:
+
+### Ser
+- yo **era**
+- tú **eras**
+- él **era**
+- nosotros **éramos**
+- vosotros **erais**
+- ellos **eran**
+
+### Ir
+- yo **iba**
+- tú **ibas**
+- él **iba**
+- nosotros **íbamos**
+- vosotros **ibais**
+- ellos **iban**
+
+### Ver
+- yo **veía**
+- tú **veías**
+- él **veía**
+- nosotros **veíamos**
+- vosotros **veíais**
+- ellos **veían**
+
+## Diferencia entre indefinido e imperfecto
+
+### Indefinido
+Acción terminada.
+- Ayer **estudié** dos horas.
+- Juan **llegó** a las ocho.
+
+### Imperfecto
+Contexto, hábito, descripción o acción en progreso.
+- De niño **estudiaba** por la tarde.
+- Juan **llegaba** temprano todos los días.
+
+## Comparación clara
+- **Ayer llovió.** → hecho terminado.
+- **Antes llovía mucho en invierno.** → hábito o descripción.
+
+- **Anoche cené con Ana.** → acción completa.
+- **Cuando vivía en Sevilla, cenaba tarde.** → costumbre.
+
+## Palabras que suelen acompañarlo
+- siempre
+- antes
+- a menudo
+- todos los días
+- de niño
+- mientras
+
+## Truco fácil
+Piensa así:
+- **Indefinido** = qué pasó
+- **Imperfecto** = cómo era / qué pasaba normalmente / qué estaba pasando
+
+## Ejercicio
+Completa con imperfecto:
+
+1. Cuando yo era pequeño, ___ (jugar) en el parque.
+2. Nosotros ___ (comer) muy tarde en verano.
+3. Ella ___ (vivir) en Valencia.
+4. Antes, tú ___ (ser) muy tímido.
+5. Mientras ellos ___ (estudiar), yo leía.
+
+## Respuestas
+1. **jugaba**
+2. **comíamos**
+3. **vivía**
+4. **eras**
+5. **estudiaban**
+
+Si quieres, te puedo hacer ahora una **comparación práctica entre indefinido e imperfecto** con ejercicios para elegir cuál usar.
